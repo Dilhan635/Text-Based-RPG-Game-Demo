@@ -7,7 +7,7 @@ It demonstrates a clean, state-driven architecture for handling player stats, da
 
 ## ✨ Features
 - **Hand-crafted Dungeon**: A carefully designed dungeon layout with unique rooms, puzzles, and encounters. Unlike the overworld, this area is static and intentionally built to deliver a specific challenge and atmosphere. Includes an NPC and obtainable loot.
-- **Stat-based Progression Ststem**: This game follows a use‑based progression model. Each stat (such as Strength, Agility, or Magic) improves naturally the more you rely on it.
+- **Stat-based Progression System**: This game follows a use‑based progression model. Each stat (such as Strength, Agility, or Magic) improves naturally the more you rely on it.
 - **CombatSystem**: A turn‑based battle engine where the player chooses actions (attack, defend, cast spells, use items, attempt escape). The system handles damage calculation, enemy AI, and win/lose conditions.
 - **Items**: Collectible consumables such as potions or key items.
 - **Equipment**: Weapons, armor, and accessories that can be equipped to improve player stats. Equipment adds progression and customization to your character build.
