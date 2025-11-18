@@ -1,0 +1,7 @@
+﻿  CombatState.cpp
+C:\Users\dilha\source\repos\ConsoleApplication1\ConsoleApplication1\Enemy.h(23,8): warning C4099: 'Enemy': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'CombatState.cpp')
+      C:\Users\dilha\source\repos\ConsoleApplication1\ConsoleApplication1\Enemy.h(23,8):
+      see declaration of 'Enemy'
+  
+  ConsoleApplication1.vcxproj -> C:\Users\dilha\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
