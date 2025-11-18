@@ -1,6 +1,6 @@
 # Text-Based RPG Game Demo
 
-++ text-based RPG** built in Visual Studio.  
+Built in Visual Studio.  
 It demonstrates a clean, state-driven architecture for handling player stats, databases, combat, exploration, and game flow.
 
 ---
