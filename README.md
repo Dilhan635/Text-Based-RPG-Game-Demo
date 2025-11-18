@@ -22,7 +22,7 @@ It demonstrates a clean, state-driven architecture for handling player stats, da
 2. Open the `.sln` file in **Visual Studio**.
 3. Build the project (`Ctrl+Shift+B`).
 4. Run the game (`F5` or the green ▶️ button).
-5. Play in the console window — choose actions, fight enemies, and explore!
+5. Play in the console window. Enjoy!
 
 ---
 
