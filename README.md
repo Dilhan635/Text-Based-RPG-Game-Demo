@@ -23,7 +23,3 @@ It demonstrates a clean, state-driven architecture for handling player stats, da
 3. Build the project (`Ctrl+Shift+B`).
 4. Run the game (`F5` or the green ▶️ button).
 5. Play in the console window. Enjoy!
-
----
-
-## 📂 Project Structure
